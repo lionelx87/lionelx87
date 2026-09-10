@@ -20,7 +20,7 @@ I work daily with AI coding agents on production code, and I build my own produc
 - **Frontend** — Angular, React, Vue, Next.js, Nuxt, Astro, RxJS, Electron
 - **Commerce** — SAP Commerce Cloud, SAP Composable Storefront (Spartacus), OCC REST APIs
 - **Backend & data** — Node.js, PHP, Laravel, PostgreSQL, MySQL, SQL Server, SQLite
-- **AI engineering** — LLM APIs (OpenAI, Google Gemini), structured outputs, schema validation of model output, context engineering, Model Context Protocol
+- **AI engineering** — LLM APIs (OpenAI, Google Gemini), structured outputs, schema validation of model output, prompt and context engineering, agent harness and workflow design, AI-assisted development (Claude Code, Codex), Model Context Protocol (MCP)
 
 ### Elsewhere
 
